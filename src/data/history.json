@@ -1,0 +1,10 @@
+[
+  {
+    "role": "SDE-Intern",
+    "organisation": "TechCiti",
+    "startDate": "Jan, 2023",
+    "endDate": "Jun, 2023",
+    "experiences": ["Worked on the frontend of an E-commerce platform using React.js and tailwind CSS."],
+    "imageSrc": "history/techciti.png"
+  }
+]
