@@ -1,4 +1,11 @@
-[
+[ {
+    "title": "Gemini Clone",
+    "imageSrc": "projects/gemini-clone.png",
+    "description": "This project introduces a React-based web application that functions as a clone of the Google Gemini AI chatbot. It allows you to ask questions and receive informative responses in a conversational manner.",
+    "skills": ["Gemini API","React", "HTML", "CSS"],
+    "demo": "https://sohil-gemini-clone.netlify.app/",
+    "source": "https://github.com/mrshyspy/Gemini.ai"
+  },
   {
     "title": "Shoppers",
     "imageSrc": "projects/project.png",
@@ -7,12 +14,13 @@
     "demo": "https://shopper-gules.vercel.app/",
     "source": "https://github.com/mrshyspy/shopper.com"
   },
+  
   {
     "title": "Portfolio",
     "imageSrc": "projects/portfolio-new.png",
     "description": "This is a personal Porfolio website which you currently looking at. Click on icons below for source code and demo.",
     "skills": ["React", "HTML", "CSS", "JavaScrip"],
-    "demo": "https://sohilkhan.netlify.app/",
-    "source": "https://github.com/mrshyspy/portfolio"
+    "demo": "https://sohilkhan.netlify.app",
+    "source": "https://github.com/mrshyspy/Portfolio"
   }
 ]
