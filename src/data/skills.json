@@ -1,4 +1,16 @@
-[
+[  {
+  "title": "React",
+  "imageSrc": "skills/react.png"
+},
+{
+  "title": "Tailwind CSS",
+  "imageSrc": "skills/Tailwind.png"
+},
+
+{
+  "title": "MongoDB",
+  "imageSrc": "skills/mongodb.png"
+}, 
   {
     "title": "HTML",
     "imageSrc": "skills/html.png"
@@ -10,19 +22,6 @@
   {
     "title": "JavaScript",
     "imageSrc": "skills/javascript.png"
-  },
-  {
-    "title": "React",
-    "imageSrc": "skills/react.png"
-  },
-  {
-    "title": "Tailwind CSS",
-    "imageSrc": "skills/Tailwind.png"
-  },
-  
-  {
-    "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png"
   }
   
 ]
