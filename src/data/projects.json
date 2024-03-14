@@ -6,13 +6,15 @@
     "demo": "https://sohil-gemini-clone.netlify.app/",
     "source": "https://github.com/mrshyspy/Gemini.ai"
   },
-     {
-    "title": "Youtube-Clone",
-    "imageSrc": "projects/youtube.png",
-    "skills": ["React", "JavaScrip", "HTML", "CSS"],
-    "demo": "https://youtube-clone-gold-mu.vercel.app/",
-    "source": "https://github.com/mrshyspy/Youtube-clone"
-  }
+    {
+  "title": "Youtube-Clone",
+  "imageSrc": "projects/youtube.png",
+  "description": "Built a Videostreaming app using React.js, leveraging the YouTube API for fetching videos and implementing features like YouTube-like search with search suggestion API integration and debouncing for performance optimization.",
+  "skills": ["React", "JavaScript", "HTML", "CSS"],
+  "demo": "https://youtube-clone-gold-mu.vercel.app/",
+  "source": "https://github.com/mrshyspy/Youtube-clone"
+}
+
   {
     "title": "Shoppers",
     "imageSrc": "projects/project.png",
