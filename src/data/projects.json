@@ -9,7 +9,7 @@
      {
     "title": "Youtube-Clone",
     "imageSrc": "projects/youtube.png",
-    "description": "• Built a Videostreaming app using React.js, leveraging the YouTube API for fetching videos and implementing
+    "description": "Built a Videostreaming app using React.js, leveraging the YouTube API for fetching videos and implementing
 features like YouTube-like search with search suggestion API integration and debouncing for performance
 optimization.",
     "skills": ["React", "JavaScrip", "HTML", "CSS"],
